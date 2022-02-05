@@ -1,0 +1,11 @@
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\bin\Debug\FirstForm.exe.config
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\bin\Debug\FirstForm.exe
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\bin\Debug\FirstForm.pdb
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.csprojResolveAssemblyReference.cache
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.Properties.Resources.resources
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.csproj.GenerateResource.Cache
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.exe
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.pdb
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.Frame.resources
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.ListForm.resources
+C:\Users\jungw\Desktop\CSTest\FirstForm\FirstForm\obj\Debug\FirstForm.ModalForm.resources
