@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\bin\Debug\InstantLotto.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\bin\Debug\InstantLotto.exe
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\bin\Debug\InstantLotto.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\obj\Debug\InstantLotto.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\obj\Debug\InstantLotto.InstantLotto.resources
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\obj\Debug\InstantLotto.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\obj\Debug\InstantLotto.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\obj\Debug\InstantLotto.exe
+c:\users\jungw\documents\visual studio 2012\Projects\InstantLotto\InstantLotto\obj\Debug\InstantLotto.pdb
