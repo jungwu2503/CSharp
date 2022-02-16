@@ -7,3 +7,4 @@ c:\users\jungw\documents\visual studio 2012\Projects\DelegatePizza\DelegatePizza
 c:\users\jungw\documents\visual studio 2012\Projects\DelegatePizza\DelegatePizza\obj\Debug\DelegatePizza.csproj.GenerateResource.Cache
 c:\users\jungw\documents\visual studio 2012\Projects\DelegatePizza\DelegatePizza\obj\Debug\DelegatePizza.exe
 c:\users\jungw\documents\visual studio 2012\Projects\DelegatePizza\DelegatePizza\obj\Debug\DelegatePizza.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DelegatePizza\DelegatePizza\obj\Debug\DelegatePizza.frmPizza.resources

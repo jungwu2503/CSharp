@@ -19,7 +19,7 @@ namespace DelegatePizza
         public delegate object delFuncO(object i);
 
         int _iTotalPrice = 0;
-
+                
         public Form1()
         {
             InitializeComponent();
@@ -27,6 +27,9 @@ namespace DelegatePizza
 
         private void btnOrder_Click(object sender, EventArgs e)
         {
+            // frmPizza form으로 값넘겨줄 딕셔너리
+            Dictionary<string, int> dPizzaOrder = new Dictionary<string, int>();
+
             delFuncDow_Edge delDow = new delFuncDow_Edge(fDow);
             delFuncDow_Edge delEdge = new delFuncDow_Edge(fEdge);
 
@@ -38,10 +41,12 @@ namespace DelegatePizza
             // Dow 선택
             if (rdoDow1.Checked) {
                 iDowOrder = 1;
+                dPizzaOrder.Add("오리지널", 1);
             }
             else if (rdoDow2.Checked)
             {
                 iDowOrder = 2;
+                dPizzaOrder.Add("씬", 1);
             }
 
             //delDow(iDowOrder);
@@ -50,10 +55,12 @@ namespace DelegatePizza
             if (rdoEdge1.Checked)
             {
                 iEdgeOrder = 1;
+                dPizzaOrder.Add("리치골드", 1);
             }
             else if (rdoEdge2.Checked)
             {
                 iEdgeOrder = 2;
+                dPizzaOrder.Add("치즈크러스트", 1);
             }
 
             //delEdge(iEdgeOrder);
@@ -65,16 +72,26 @@ namespace DelegatePizza
             {
                 //delTopping = new delFuncTopping(fTopping1);
                 delTopping += fTopping1;
+                dPizzaOrder.Add("소세지", (int)numEa.Value);
             }
-
-            if (cboxTopping2.Checked) delTopping += fTopping2;
-            if (cboxTopping3.Checked) delTopping += fTopping3;
+            if (cboxTopping2.Checked)
+            {
+                delTopping += fTopping2;
+                dPizzaOrder.Add("감자", (int)numEa.Value);
+            }
+            if (cboxTopping3.Checked)
+            {
+                delTopping += fTopping3;
+                dPizzaOrder.Add("치즈", (int)numEa.Value);
+            }
 
             delTopping("토핑", (int)numEa.Value);
 
             flboxOrderRed("=====================");
             flboxOrderRed(string.Format("전체 주문 가격은 {0}입니다.", _iTotalPrice));
             _iTotalPrice = 0;
+
+            frmLoading(dPizzaOrder);
         }
 
         #region Function
@@ -189,6 +206,40 @@ namespace DelegatePizza
 
         #endregion
 
+        #region event
+
+        frmPizza fPizza;
+
+        private void frmLoading(Dictionary<string, int> dPizzaOrder)
+        {
+            if (fPizza != null)
+            {
+                fPizza.Dispose();
+                fPizza = null;
+            }
+
+            fPizza = new frmPizza();
+            fPizza.eventdelPizzaComplete += fPizza_eventdelPizzaComplete;
+            fPizza.Show();
+
+            fPizza.fpizzrCheck(dPizzaOrder);
+        }
+
+        private int fPizza_eventdelPizzaComplete(string strResult, int iTime)
+        {
+            flboxOrderRed("=====================");
+            flboxOrderRed(string.Format("{0} / 걸린시간 : {1}", strResult, iTime));
+
+            // 시간 계산을 해서 5분이 넘어가면 -1
+            if (iTime > 4000)
+            {
+                return -1;
+            }
+
+            return 0;
+        }
+
+        #endregion
 
     }
 }
