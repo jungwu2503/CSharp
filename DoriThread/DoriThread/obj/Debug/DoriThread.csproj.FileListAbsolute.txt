@@ -1,0 +1,10 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\bin\Debug\DoriThread.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\bin\Debug\DoriThread.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\bin\Debug\DoriThread.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\obj\Debug\DoriThread.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\obj\Debug\DoriThread.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\obj\Debug\DoriThread.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\obj\Debug\DoriThread.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\obj\Debug\DoriThread.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\obj\Debug\DoriThread.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriThread\DoriThread\obj\Debug\DoriThread.Play.resources
