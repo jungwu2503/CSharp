@@ -24,12 +24,22 @@ namespace DoriThread
         int _locationX = 0;
         int _locationY = 0;
 
+        List<Play> lPlay = new List<Play>();
+
         public Form1()
         {
             InitializeComponent();
 
             _locationX = Location.X;
             _locationY = Location.Y;
+        }
+
+        void Form1_FormClosing(object sender, System.Windows.Forms.FormClosingEventArgs e)
+        {
+            foreach (Play oPlayForm in lPlay)
+            {
+                oPlayForm.ThreadAbort(); // 프로그램 끝나는 시점이라 강제로 Thread 해제
+            }
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -46,6 +56,8 @@ namespace DoriThread
 
                 pl.Show();
                 pl.fThreadStart();
+
+                lPlay.Add(pl);
             }
 
             
