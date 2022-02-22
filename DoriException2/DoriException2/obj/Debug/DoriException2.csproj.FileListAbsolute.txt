@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\bin\Debug\DoriException2.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\bin\Debug\DoriException2.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\bin\Debug\DoriException2.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\obj\Debug\DoriException2.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\obj\Debug\DoriException2.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\obj\Debug\DoriException2.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\obj\Debug\DoriException2.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\obj\Debug\DoriException2.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriException2\DoriException2\obj\Debug\DoriException2.pdb
