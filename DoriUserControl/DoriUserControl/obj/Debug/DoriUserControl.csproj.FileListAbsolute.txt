@@ -1,0 +1,10 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\bin\Debug\DoriUserControl.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\bin\Debug\DoriUserControl.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\bin\Debug\DoriUserControl.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\obj\Debug\DoriUserControl.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\obj\Debug\DoriUserControl.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\obj\Debug\DoriUserControl.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\obj\Debug\DoriUserControl.UCInfo.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\obj\Debug\DoriUserControl.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\obj\Debug\DoriUserControl.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriUserControl\DoriUserControl\obj\Debug\DoriUserControl.pdb
