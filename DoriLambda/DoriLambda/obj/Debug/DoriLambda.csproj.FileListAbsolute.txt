@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\bin\Debug\DoriLambda.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\bin\Debug\DoriLambda.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\bin\Debug\DoriLambda.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\obj\Debug\DoriLambda.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\obj\Debug\DoriLambda.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\obj\Debug\DoriLambda.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\obj\Debug\DoriLambda.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\obj\Debug\DoriLambda.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLambda\DoriLambda\obj\Debug\DoriLambda.pdb
