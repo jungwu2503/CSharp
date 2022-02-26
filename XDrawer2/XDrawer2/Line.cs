@@ -75,6 +75,7 @@ namespace XDrawer2
         public override Figure clone()
         {
             Line newFigure = new Line(_x1, _y1, _x2, _y2);
+            newFigure._color = _color;
             newFigure._popup = _popup;
             newFigure.move(20, 20);
             return newFigure;

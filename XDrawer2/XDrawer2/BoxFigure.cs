@@ -15,6 +15,12 @@ namespace XDrawer2
         protected int _x2;
         protected int _y2;
 
+        public BoxFigure()
+            : base()
+        {
+
+        }
+
         public BoxFigure(int x, int y)
         {
             _x1 = _x2 = x;
@@ -25,6 +31,17 @@ namespace XDrawer2
         {
             _x1 = x1; _y1 = y1;
             _x2 = x2; _y2 = y2;
+        }
+
+        public override void copy(Figure from)
+        {
+            base.copy(from);
+
+            BoxFigure fromBox = (BoxFigure)from;
+            _x1 = fromBox._x1;
+            _y1 = fromBox._y1;
+            _x2 = fromBox._x2;
+            _y2 = fromBox._y2;
         }
 
         public override void move(int dx, int dy)

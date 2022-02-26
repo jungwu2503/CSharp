@@ -33,6 +33,13 @@ namespace XDrawer2
             _color = color;
         }
 
+        public virtual void copy(Figure from)
+        {
+            _region = from._region;
+            _color = from._color;
+            _popup = from._popup;
+        }
+
         public void drawing(IntPtr hdc, int x, int y)
         {
             draw(hdc);

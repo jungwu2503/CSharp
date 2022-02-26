@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace XDrawer2
 {
-    class FigurePopup : Popup
+    public class FigurePopup : Popup
     {
         public FigurePopup(XDrawer form, String title, bool fillFlag)
             : base(form, title)
