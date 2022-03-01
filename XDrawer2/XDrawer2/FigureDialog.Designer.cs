@@ -55,6 +55,7 @@
             this.selectColorButton.TabIndex = 31;
             this.selectColorButton.Text = "Select Color";
             this.selectColorButton.UseVisualStyleBackColor = true;
+            this.selectColorButton.Click += new System.EventHandler(this.selectColorButton_Click);
             // 
             // blueButton
             // 
@@ -67,6 +68,7 @@
             this.blueButton.TabStop = true;
             this.blueButton.Text = "Blue";
             this.blueButton.UseVisualStyleBackColor = true;
+            this.blueButton.CheckedChanged += new System.EventHandler(this.blueButton_CheckedChanged);
             // 
             // greenButton
             // 
@@ -79,6 +81,7 @@
             this.greenButton.TabStop = true;
             this.greenButton.Text = "Green";
             this.greenButton.UseVisualStyleBackColor = true;
+            this.greenButton.CheckedChanged += new System.EventHandler(this.greenButton_CheckedChanged);
             // 
             // redButton
             // 
@@ -91,6 +94,7 @@
             this.redButton.TabStop = true;
             this.redButton.Text = "Red";
             this.redButton.UseVisualStyleBackColor = true;
+            this.redButton.CheckedChanged += new System.EventHandler(this.redButton_CheckedChanged);
             // 
             // blackButton
             // 
@@ -103,6 +107,7 @@
             this.blackButton.TabStop = true;
             this.blackButton.Text = "Black";
             this.blackButton.UseVisualStyleBackColor = true;
+            this.blackButton.Click += new System.EventHandler(this.blackButton_Click);
             // 
             // selectBox
             // 
@@ -112,6 +117,7 @@
             this.selectBox.Name = "selectBox";
             this.selectBox.Size = new System.Drawing.Size(162, 20);
             this.selectBox.TabIndex = 26;
+            this.selectBox.SelectedIndexChanged += new System.EventHandler(this.selectBox_SelectedIndexChanged);
             // 
             // cancelButton
             // 
@@ -122,6 +128,7 @@
             this.cancelButton.TabIndex = 25;
             this.cancelButton.Text = "Cancel";
             this.cancelButton.UseVisualStyleBackColor = true;
+            this.cancelButton.Click += new System.EventHandler(this.cancelButton_Click);
             // 
             // okButton
             // 
@@ -132,6 +139,7 @@
             this.okButton.TabIndex = 24;
             this.okButton.Text = "OK";
             this.okButton.UseVisualStyleBackColor = true;
+            this.okButton.Click += new System.EventHandler(this.okButton_Click);
             // 
             // textY2
             // 
