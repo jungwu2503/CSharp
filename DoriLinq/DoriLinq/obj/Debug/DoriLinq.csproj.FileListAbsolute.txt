@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\bin\Debug\DoriLinq.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\bin\Debug\DoriLinq.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\bin\Debug\DoriLinq.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\obj\Debug\DoriLinq.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\obj\Debug\DoriLinq.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\obj\Debug\DoriLinq.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\obj\Debug\DoriLinq.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\obj\Debug\DoriLinq.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLinq\DoriLinq\obj\Debug\DoriLinq.csprojResolveAssemblyReference.cache
