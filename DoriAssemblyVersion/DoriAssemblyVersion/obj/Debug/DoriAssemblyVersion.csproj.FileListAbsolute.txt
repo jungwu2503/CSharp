@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\bin\Debug\DoriAssemblyVersion.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\bin\Debug\DoriAssemblyVersion.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\bin\Debug\DoriAssemblyVersion.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\obj\Debug\DoriAssemblyVersion.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\obj\Debug\DoriAssemblyVersion.Title.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\obj\Debug\DoriAssemblyVersion.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\obj\Debug\DoriAssemblyVersion.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\obj\Debug\DoriAssemblyVersion.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAssemblyVersion\DoriAssemblyVersion\obj\Debug\DoriAssemblyVersion.pdb
