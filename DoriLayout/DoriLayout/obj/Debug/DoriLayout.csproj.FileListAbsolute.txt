@@ -8,3 +8,4 @@ c:\users\jungw\documents\visual studio 2012\Projects\DoriLayout\DoriLayout\obj\D
 c:\users\jungw\documents\visual studio 2012\Projects\DoriLayout\DoriLayout\obj\Debug\DoriLayout.csproj.GenerateResource.Cache
 c:\users\jungw\documents\visual studio 2012\Projects\DoriLayout\DoriLayout\obj\Debug\DoriLayout.exe
 c:\users\jungw\documents\visual studio 2012\Projects\DoriLayout\DoriLayout\obj\Debug\DoriLayout.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLayout\DoriLayout\obj\Debug\DoriLayout.ucColorMenu.resources
