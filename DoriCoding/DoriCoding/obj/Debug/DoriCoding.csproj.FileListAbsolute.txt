@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\bin\Debug\DoriCoding.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\bin\Debug\DoriCoding.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\bin\Debug\DoriCoding.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\obj\Debug\DoriCoding.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\obj\Debug\DoriCoding.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\obj\Debug\DoriCoding.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\obj\Debug\DoriCoding.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\obj\Debug\DoriCoding.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriCoding\DoriCoding\obj\Debug\DoriCoding.pdb
