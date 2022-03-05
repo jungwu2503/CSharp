@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\bin\Debug\DoriSortedList.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\bin\Debug\DoriSortedList.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\bin\Debug\DoriSortedList.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\obj\Debug\DoriSortedList.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\obj\Debug\DoriSortedList.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\obj\Debug\DoriSortedList.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\obj\Debug\DoriSortedList.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\obj\Debug\DoriSortedList.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSortedList\DoriSortedList\obj\Debug\DoriSortedList.pdb
