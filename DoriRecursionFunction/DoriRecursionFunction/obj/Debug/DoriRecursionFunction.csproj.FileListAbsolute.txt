@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\bin\Debug\DoriRecursionFunction.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\bin\Debug\DoriRecursionFunction.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\bin\Debug\DoriRecursionFunction.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\obj\Debug\DoriRecursionFunction.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\obj\Debug\DoriRecursionFunction.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\obj\Debug\DoriRecursionFunction.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\obj\Debug\DoriRecursionFunction.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\obj\Debug\DoriRecursionFunction.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriRecursionFunction\DoriRecursionFunction\obj\Debug\DoriRecursionFunction.pdb
