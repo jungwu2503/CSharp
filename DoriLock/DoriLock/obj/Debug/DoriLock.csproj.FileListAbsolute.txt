@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\bin\Debug\DoriLock.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\bin\Debug\DoriLock.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\bin\Debug\DoriLock.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\obj\Debug\DoriLock.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\obj\Debug\DoriLock.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\obj\Debug\DoriLock.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\obj\Debug\DoriLock.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\obj\Debug\DoriLock.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriLock\DoriLock\obj\Debug\DoriLock.pdb
