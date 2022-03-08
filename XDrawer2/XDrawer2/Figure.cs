@@ -33,6 +33,26 @@ namespace XDrawer2
             _color = color;
         }
 
+        public virtual int getX1()
+        {
+            return -1;
+        }
+
+        public virtual int getY1()
+        {
+            return -1;
+        }
+
+        public virtual int getX2()
+        {
+            return -1;
+        }
+
+        public virtual int getY2()
+        {
+            return -1;
+        }
+
         public virtual void copy(Figure from)
         {
             _region = from._region;

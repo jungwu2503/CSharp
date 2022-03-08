@@ -33,6 +33,26 @@ namespace XDrawer2
             _x2 = x2; _y2 = y2;
         }
 
+        public override int getX1()
+        {
+            return _x1;
+        }
+
+        public override int getY1()
+        {
+            return _y1;
+        }
+
+        public override int getX2()
+        {
+            return _x2;
+        }
+
+        public override int getY2()
+        {
+            return _y2;
+        }
+
         public override void copy(Figure from)
         {
             base.copy(from);

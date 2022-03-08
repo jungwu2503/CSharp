@@ -36,6 +36,23 @@ namespace XDrawer2
             
             MenuItem tvItem = new MenuItem("TV");
             popupPtr.MenuItems.Add(tvItem);
+            tvItem.Click += new EventHandler(form.tVToolStripMenuItem_Click);
+
+            MenuItem tv2Item = new MenuItem("TV2");
+            popupPtr.MenuItems.Add(tv2Item);
+            tv2Item.Click += new EventHandler(form.tV2ToolStripMenuItem_Click);
+
+            MenuItem tv3Item = new MenuItem("TV3");
+            popupPtr.MenuItems.Add(tv3Item);
+            tv3Item.Click += new EventHandler(form.tV3ToolStripMenuItem_Click);
+
+            MenuItem speakerItem = new MenuItem("Speaker");
+            popupPtr.MenuItems.Add(speakerItem);
+            speakerItem.Click += new EventHandler(form.speakerToolStripMenuItem_Click);
+
+            MenuItem tvsetItem = new MenuItem("TV Set");
+            popupPtr.MenuItems.Add(tvsetItem);
+            tvsetItem.Click += new EventHandler(form.tVSetToolStripMenuItem_Click);
 
         }
 
