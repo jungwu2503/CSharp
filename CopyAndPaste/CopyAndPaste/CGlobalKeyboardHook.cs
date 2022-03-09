@@ -66,7 +66,7 @@ namespace CopyAndPaste
         {
             khp = new keyboardHookProc(hookproc);
 
-            hook();
+            //hook();
         }
 
         public void hook()
