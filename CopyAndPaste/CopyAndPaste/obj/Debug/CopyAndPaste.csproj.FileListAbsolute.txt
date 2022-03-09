@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\bin\Debug\CopyAndPaste.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\obj\Debug\CopyAndPaste.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\obj\Debug\CopyAndPaste.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\obj\Debug\CopyAndPaste.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\obj\Debug\CopyAndPaste.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\bin\Debug\CopyAndPaste.exe
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\bin\Debug\CopyAndPaste.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\obj\Debug\CopyAndPaste.exe
+c:\users\jungw\documents\visual studio 2012\Projects\CopyAndPaste\CopyAndPaste\obj\Debug\CopyAndPaste.pdb
