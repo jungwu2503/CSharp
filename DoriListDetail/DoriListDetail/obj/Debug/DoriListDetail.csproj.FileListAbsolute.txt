@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\bin\Debug\DoriListDetail.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\bin\Debug\DoriListDetail.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\bin\Debug\DoriListDetail.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\obj\Debug\DoriListDetail.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\obj\Debug\DoriListDetail.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\obj\Debug\DoriListDetail.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\obj\Debug\DoriListDetail.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\obj\Debug\DoriListDetail.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriListDetail\DoriListDetail\obj\Debug\DoriListDetail.pdb
