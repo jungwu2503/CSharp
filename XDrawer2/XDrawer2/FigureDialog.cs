@@ -15,8 +15,7 @@ namespace XDrawer2
         XDrawer mainForm;
         String selectedText;
         Color selectedColor;
-        static String[] figureTypes = {"Box", "Circle", "Point", "Line", "Kite", "TV", "TV2", "TV3", "Speaker", "TVSet"};
-
+        
         public FigureDialog(XDrawer form)
         {
             mainForm = form;
@@ -27,13 +26,13 @@ namespace XDrawer2
             textX2.Text = "0";
             textY2.Text = "0";
 
-            for (int i = 0; i < figureTypes.Length; i++)
+            for (int i = 0; i < mainForm.figureType.Length; i++)
             {
-                selectBox.Items.Add(figureTypes[i]);
+                selectBox.Items.Add(mainForm.figureType[i]);
             }
 
             selectBox.SelectedIndex = 1;
-            selectedText = figureTypes[selectBox.SelectedIndex];
+            selectedText = mainForm.figureType[selectBox.SelectedIndex];
 
             redButton.ForeColor = Color.Red;
             greenButton.ForeColor = Color.Green;
@@ -120,7 +119,7 @@ namespace XDrawer2
 
         private void selectBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-            selectedText = figureTypes[selectBox.SelectedIndex];
+            selectedText = mainForm.figureType[selectBox.SelectedIndex];
         }
 
         private void cancelButton_Click(object sender, EventArgs e)
