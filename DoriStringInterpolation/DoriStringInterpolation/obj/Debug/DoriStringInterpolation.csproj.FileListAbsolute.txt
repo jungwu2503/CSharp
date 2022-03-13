@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\bin\Debug\DoriStringInterpolation.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\bin\Debug\DoriStringInterpolation.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\bin\Debug\DoriStringInterpolation.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\obj\Debug\DoriStringInterpolation.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\obj\Debug\DoriStringInterpolation.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\obj\Debug\DoriStringInterpolation.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\obj\Debug\DoriStringInterpolation.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\obj\Debug\DoriStringInterpolation.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriStringInterpolation\DoriStringInterpolation\obj\Debug\DoriStringInterpolation.pdb
