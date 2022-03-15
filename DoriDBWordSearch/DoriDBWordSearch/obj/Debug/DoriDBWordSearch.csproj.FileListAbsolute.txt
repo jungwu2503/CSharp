@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\bin\Debug\DoriDBWordSearch.exe.config
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\bin\Debug\DoriDBWordSearch.exe
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\bin\Debug\DoriDBWordSearch.pdb
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\obj\Debug\DoriDBWordSearch.csprojResolveAssemblyReference.cache
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\obj\Debug\DoriDBWordSearch.Form1.resources
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\obj\Debug\DoriDBWordSearch.Properties.Resources.resources
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\obj\Debug\DoriDBWordSearch.csproj.GenerateResource.Cache
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\obj\Debug\DoriDBWordSearch.exe
+C:\Users\jungw\documents\visual studio 2012\Projects\DoriDBWordSearch\DoriDBWordSearch\obj\Debug\DoriDBWordSearch.pdb
