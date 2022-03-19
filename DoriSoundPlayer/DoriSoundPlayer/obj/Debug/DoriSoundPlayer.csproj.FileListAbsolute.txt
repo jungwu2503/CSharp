@@ -1,0 +1,12 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\bin\Debug\DoriSoundPlayer.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\bin\Debug\DoriSoundPlayer.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\bin\Debug\DoriSoundPlayer.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\DoriSoundPlayer.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\DoriSoundPlayer.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\DoriSoundPlayer.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\DoriSoundPlayer.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\DoriSoundPlayer.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\DoriSoundPlayer.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\bin\Debug\Interop.MediaPlayer.dll
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\Interop.MediaPlayer.dll
+c:\users\jungw\documents\visual studio 2012\Projects\DoriSoundPlayer\DoriSoundPlayer\obj\Debug\DoriSoundPlayer.csproj.ResolveComReference.cache
