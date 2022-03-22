@@ -1,0 +1,9 @@
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\bin\Debug\DoriAsync.exe.config
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\bin\Debug\DoriAsync.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\bin\Debug\DoriAsync.pdb
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\obj\Debug\DoriAsync.csprojResolveAssemblyReference.cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\obj\Debug\DoriAsync.Form1.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\obj\Debug\DoriAsync.Properties.Resources.resources
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\obj\Debug\DoriAsync.csproj.GenerateResource.Cache
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\obj\Debug\DoriAsync.exe
+c:\users\jungw\documents\visual studio 2012\Projects\DoriAsync\DoriAsync\obj\Debug\DoriAsync.pdb
