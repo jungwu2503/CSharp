@@ -33,20 +33,20 @@
             this.pDoor2 = new System.Windows.Forms.Panel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.btnInit = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
-            this.tboxDelay = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.btnSimulation = new System.Windows.Forms.Button();
             this.btnSimulationAsync = new System.Windows.Forms.Button();
+            this.btnSimulation = new System.Windows.Forms.Button();
+            this.tboxDelay = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.btnInit = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.btnD1Open = new System.Windows.Forms.Button();
-            this.btnD2Open = new System.Windows.Forms.Button();
-            this.btnD1Close = new System.Windows.Forms.Button();
-            this.btnD2Close = new System.Windows.Forms.Button();
-            this.btnRobotRotate = new System.Windows.Forms.Button();
-            this.btnRobotExtend = new System.Windows.Forms.Button();
             this.btnRobotRetract = new System.Windows.Forms.Button();
+            this.btnRobotExtend = new System.Windows.Forms.Button();
+            this.btnRobotRotate = new System.Windows.Forms.Button();
+            this.btnD2Close = new System.Windows.Forms.Button();
+            this.btnD1Close = new System.Windows.Forms.Button();
+            this.btnD2Open = new System.Windows.Forms.Button();
+            this.btnD1Open = new System.Windows.Forms.Button();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.lboxLog = new System.Windows.Forms.ListBox();
             this.groupBox1.SuspendLayout();
@@ -105,40 +105,15 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "전체 동작";
             // 
-            // btnInit
+            // btnSimulationAsync
             // 
-            this.btnInit.Location = new System.Drawing.Point(7, 22);
-            this.btnInit.Name = "btnInit";
-            this.btnInit.Size = new System.Drawing.Size(150, 38);
-            this.btnInit.TabIndex = 0;
-            this.btnInit.Text = "초기 화면 표시";
-            this.btnInit.UseVisualStyleBackColor = true;
-            this.btnInit.Click += new System.EventHandler(this.btn_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(7, 73);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(77, 12);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "동작 Delay : ";
-            // 
-            // tboxDelay
-            // 
-            this.tboxDelay.Location = new System.Drawing.Point(82, 68);
-            this.tboxDelay.Name = "tboxDelay";
-            this.tboxDelay.Size = new System.Drawing.Size(41, 21);
-            this.tboxDelay.TabIndex = 2;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(495, 85);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(29, 12);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "m/s";
+            this.btnSimulationAsync.Location = new System.Drawing.Point(9, 151);
+            this.btnSimulationAsync.Name = "btnSimulationAsync";
+            this.btnSimulationAsync.Size = new System.Drawing.Size(150, 50);
+            this.btnSimulationAsync.TabIndex = 4;
+            this.btnSimulationAsync.Text = "비동기 동작 진행";
+            this.btnSimulationAsync.UseVisualStyleBackColor = true;
+            this.btnSimulationAsync.Click += new System.EventHandler(this.btn_Click);
             // 
             // btnSimulation
             // 
@@ -150,15 +125,42 @@
             this.btnSimulation.UseVisualStyleBackColor = true;
             this.btnSimulation.Click += new System.EventHandler(this.btn_Click);
             // 
-            // btnSimulationAsync
+            // tboxDelay
             // 
-            this.btnSimulationAsync.Location = new System.Drawing.Point(9, 151);
-            this.btnSimulationAsync.Name = "btnSimulationAsync";
-            this.btnSimulationAsync.Size = new System.Drawing.Size(150, 50);
-            this.btnSimulationAsync.TabIndex = 4;
-            this.btnSimulationAsync.Text = "비동기 동작 진행";
-            this.btnSimulationAsync.UseVisualStyleBackColor = true;
-            this.btnSimulationAsync.Click += new System.EventHandler(this.btn_Click);
+            this.tboxDelay.Location = new System.Drawing.Point(82, 68);
+            this.tboxDelay.Name = "tboxDelay";
+            this.tboxDelay.Size = new System.Drawing.Size(41, 21);
+            this.tboxDelay.TabIndex = 2;
+            this.tboxDelay.Text = "100";
+            this.tboxDelay.TextChanged += new System.EventHandler(this.tboxDelay_TextChanged);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(7, 73);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(77, 12);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "동작 Delay : ";
+            // 
+            // btnInit
+            // 
+            this.btnInit.Location = new System.Drawing.Point(7, 22);
+            this.btnInit.Name = "btnInit";
+            this.btnInit.Size = new System.Drawing.Size(150, 38);
+            this.btnInit.TabIndex = 0;
+            this.btnInit.Text = "초기 화면 표시";
+            this.btnInit.UseVisualStyleBackColor = true;
+            this.btnInit.Click += new System.EventHandler(this.btn_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(495, 85);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(29, 12);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "m/s";
             // 
             // groupBox3
             // 
@@ -176,55 +178,15 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "단위 동작";
             // 
-            // btnD1Open
+            // btnRobotRetract
             // 
-            this.btnD1Open.Location = new System.Drawing.Point(10, 19);
-            this.btnD1Open.Name = "btnD1Open";
-            this.btnD1Open.Size = new System.Drawing.Size(114, 38);
-            this.btnD1Open.TabIndex = 0;
-            this.btnD1Open.Text = "Door1 Open";
-            this.btnD1Open.UseVisualStyleBackColor = true;
-            this.btnD1Open.Click += new System.EventHandler(this.btn_Click);
-            // 
-            // btnD2Open
-            // 
-            this.btnD2Open.Location = new System.Drawing.Point(130, 18);
-            this.btnD2Open.Name = "btnD2Open";
-            this.btnD2Open.Size = new System.Drawing.Size(114, 38);
-            this.btnD2Open.TabIndex = 1;
-            this.btnD2Open.Text = "Door2 Open";
-            this.btnD2Open.UseVisualStyleBackColor = true;
-            this.btnD2Open.Click += new System.EventHandler(this.btn_Click);
-            // 
-            // btnD1Close
-            // 
-            this.btnD1Close.Location = new System.Drawing.Point(10, 61);
-            this.btnD1Close.Name = "btnD1Close";
-            this.btnD1Close.Size = new System.Drawing.Size(114, 38);
-            this.btnD1Close.TabIndex = 2;
-            this.btnD1Close.Text = "Door1 Close";
-            this.btnD1Close.UseVisualStyleBackColor = true;
-            this.btnD1Close.Click += new System.EventHandler(this.btn_Click);
-            // 
-            // btnD2Close
-            // 
-            this.btnD2Close.Location = new System.Drawing.Point(130, 61);
-            this.btnD2Close.Name = "btnD2Close";
-            this.btnD2Close.Size = new System.Drawing.Size(114, 38);
-            this.btnD2Close.TabIndex = 3;
-            this.btnD2Close.Text = "Door2 Close";
-            this.btnD2Close.UseVisualStyleBackColor = true;
-            this.btnD2Close.Click += new System.EventHandler(this.btn_Click);
-            // 
-            // btnRobotRotate
-            // 
-            this.btnRobotRotate.Location = new System.Drawing.Point(10, 172);
-            this.btnRobotRotate.Name = "btnRobotRotate";
-            this.btnRobotRotate.Size = new System.Drawing.Size(234, 31);
-            this.btnRobotRotate.TabIndex = 6;
-            this.btnRobotRotate.Text = "Robot Rotate";
-            this.btnRobotRotate.UseVisualStyleBackColor = true;
-            this.btnRobotRotate.Click += new System.EventHandler(this.btn_Click);
+            this.btnRobotRetract.Location = new System.Drawing.Point(10, 138);
+            this.btnRobotRetract.Name = "btnRobotRetract";
+            this.btnRobotRetract.Size = new System.Drawing.Size(234, 31);
+            this.btnRobotRetract.TabIndex = 8;
+            this.btnRobotRetract.Text = "Robot Arm Retract";
+            this.btnRobotRetract.UseVisualStyleBackColor = true;
+            this.btnRobotRetract.Click += new System.EventHandler(this.btn_Click);
             // 
             // btnRobotExtend
             // 
@@ -236,15 +198,55 @@
             this.btnRobotExtend.UseVisualStyleBackColor = true;
             this.btnRobotExtend.Click += new System.EventHandler(this.btn_Click);
             // 
-            // btnRobotRetract
+            // btnRobotRotate
             // 
-            this.btnRobotRetract.Location = new System.Drawing.Point(10, 138);
-            this.btnRobotRetract.Name = "btnRobotRetract";
-            this.btnRobotRetract.Size = new System.Drawing.Size(234, 31);
-            this.btnRobotRetract.TabIndex = 8;
-            this.btnRobotRetract.Text = "Robot Arm Retract";
-            this.btnRobotRetract.UseVisualStyleBackColor = true;
-            this.btnRobotRetract.Click += new System.EventHandler(this.btn_Click);
+            this.btnRobotRotate.Location = new System.Drawing.Point(10, 172);
+            this.btnRobotRotate.Name = "btnRobotRotate";
+            this.btnRobotRotate.Size = new System.Drawing.Size(234, 31);
+            this.btnRobotRotate.TabIndex = 6;
+            this.btnRobotRotate.Text = "Robot Rotate";
+            this.btnRobotRotate.UseVisualStyleBackColor = true;
+            this.btnRobotRotate.Click += new System.EventHandler(this.btn_Click);
+            // 
+            // btnD2Close
+            // 
+            this.btnD2Close.Location = new System.Drawing.Point(130, 61);
+            this.btnD2Close.Name = "btnD2Close";
+            this.btnD2Close.Size = new System.Drawing.Size(114, 38);
+            this.btnD2Close.TabIndex = 3;
+            this.btnD2Close.Text = "Door2 Close";
+            this.btnD2Close.UseVisualStyleBackColor = true;
+            this.btnD2Close.Click += new System.EventHandler(this.btn_Click);
+            // 
+            // btnD1Close
+            // 
+            this.btnD1Close.Location = new System.Drawing.Point(10, 61);
+            this.btnD1Close.Name = "btnD1Close";
+            this.btnD1Close.Size = new System.Drawing.Size(114, 38);
+            this.btnD1Close.TabIndex = 2;
+            this.btnD1Close.Text = "Door1 Close";
+            this.btnD1Close.UseVisualStyleBackColor = true;
+            this.btnD1Close.Click += new System.EventHandler(this.btn_Click);
+            // 
+            // btnD2Open
+            // 
+            this.btnD2Open.Location = new System.Drawing.Point(130, 18);
+            this.btnD2Open.Name = "btnD2Open";
+            this.btnD2Open.Size = new System.Drawing.Size(114, 38);
+            this.btnD2Open.TabIndex = 1;
+            this.btnD2Open.Text = "Door2 Open";
+            this.btnD2Open.UseVisualStyleBackColor = true;
+            this.btnD2Open.Click += new System.EventHandler(this.btn_Click);
+            // 
+            // btnD1Open
+            // 
+            this.btnD1Open.Location = new System.Drawing.Point(10, 19);
+            this.btnD1Open.Name = "btnD1Open";
+            this.btnD1Open.Size = new System.Drawing.Size(114, 38);
+            this.btnD1Open.TabIndex = 0;
+            this.btnD1Open.Text = "Door1 Open";
+            this.btnD1Open.UseVisualStyleBackColor = true;
+            this.btnD1Open.Click += new System.EventHandler(this.btn_Click);
             // 
             // groupBox4
             // 
