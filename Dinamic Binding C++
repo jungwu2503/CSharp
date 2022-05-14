@@ -1,0 +1,51 @@
+#include <stdio.h>
+
+class X {
+public:
+	X() { }
+	void foo() { printf("X::foo()\n"); }
+	virtual void hoo() {  printf("X::hoo()\n"); }
+};
+
+class Y : public X {
+public:
+	Y() { }
+	void foo() { printf("Y::foo()\n"); }
+	virtual void hoo() {  printf("Y::hoo()\n"); }
+};
+
+class Z : public X {
+public:
+	Z() { }
+	void foo() { printf("Z::foo()\n"); }
+	virtual void hoo() {  printf("Z::hoo()\n"); }
+};
+
+void main() {
+	X *arr[5];
+	int n;
+
+	for (int i = 0; i < 5; i++) {
+		scanf("%d", &n);
+		if (n == 1) {
+			arr[i] = new X();
+		} else if (n == 2) {
+			arr[i] = new Y();
+		} else if (n == 3) {
+			arr[i] = new Z();
+		}
+	}
+
+	for (int i = 0; i < 5; i++) {
+		arr[i]->foo();
+		arr[i]->hoo();
+	}
+
+	/*X a;
+	Y b;
+	Z c;
+
+	a.foo();
+	b.foo();
+	c.foo();*/
+}
