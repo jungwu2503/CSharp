@@ -1,0 +1,109 @@
+#include <iostream>
+using namespace std;
+
+class String {
+	char *s;
+	int len;
+	int hash;
+public:
+	String() {
+		s = NULL;
+		len = 0;
+		hash = 0;
+	}
+	void operator=(char *p) {
+		s = strdup(p);
+		len = strlen(p);
+	}
+	void operator=(String &p) {
+		s = strdup(p.s);
+		len = strlen(p);
+	}
+};
+
+void main() {
+	/*char *s = "kim"; // kim 은 constant pool에 있음.(Read Only)
+	char *p;
+
+	p = s;
+	p[1] = 'c';
+	cout << p << "\n" << s;*/
+
+	String x;
+
+	x = "kim";
+
+	String y;
+	
+	y = x;
+
+	cout << x;
+}
+
+/*
+class CPNumber {
+	double r;
+	double i;
+public:
+	CPNumber() {
+		r = i = 0.0;
+	}
+	CPNumber(double x, double y) {
+		r = x;
+		i = y;
+	}
+	CPNumber add(CPNumber c) {
+		double rr = r + c.r;
+		double ii = i + c.i;
+		//CPNumber result(rr,ii);
+		//return result;
+		return CPNumber(rr, ii);
+	}
+	CPNumber operator+(CPNumber c) { // operator overloding 실무에서 쓰면안됨
+		double rr = r + c.r;
+		double ii = i + c.i;
+		//CPNumber result(rr,ii);
+		//return result;
+		return CPNumber(rr, ii);
+	}
+	bool equals(CPNumber c) {
+		if (r == c.r && i == c.i) return true;
+		else return false;
+	}
+	bool operator==(CPNumber c) {
+		if (r == c.r && i == c.i) return true;
+		else return false;
+	}
+	void print() {
+		cout << r << "+" << i << "i";
+	}
+	friend ostream& operator<<(ostream& out, CPNumber c);
+};
+
+ostream& operator<<(ostream& out, CPNumber c) {
+	out << c.r << "+" << c.i << "i";
+	return out;
+}
+
+void main()
+{
+	CPNumber a(1.5, 1.3);
+	CPNumber b(1.5, 1.3);
+	CPNumber c;
+
+	c = a.add(b);
+	c = a + b;
+	c.print();
+
+	cout << "\n";
+	cout << "hello world\n";
+
+	if (a == b) {
+		cout << "same\n";
+	} else {
+		cout << "different\n";
+	}
+
+	cout << a;
+}
+*/
